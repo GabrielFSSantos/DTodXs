@@ -1,0 +1,111 @@
+
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+
+/* INICIAL & CORPO */
+.tema{
+
+    background: linear-gradient(#000000, #2F0B3A,rgb(45, 109, 170)) ;
+    /* background-image: url(../img/Fundo.jpg);
+    background-attachment: fixed;
+    background-size: 100%; */
+}
+
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: #ffffff;
+    overflow-x: hidden;
+}
+
+.objCenter-titulo{
+
+    margin-top: 5%;
+    margin-block-end: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* NAVBAR */
+.tm-nav-section {
+
+    position: absolute;
+    top: 99px;
+    left: 0;
+    width: 100%;
+    border-top: 1px solid #909090;
+    border-bottom: 1px solid #909090;
+    background-color: white;
+    /* z-index: 3000; */
+}
+.navbar {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.navbar-light .navbar-nav .nav-link {
+    
+    font-weight: bolder;
+    font-stretch: ultra-expanded;
+    color: #000000;
+}
+
+
+/* BANNER */
+.imgBanner{
+
+    width: 200px;
+    height: 500px;
+
+}
+
+/* NÓS */
+h3{
+    font-family: Impact, sans-serif;
+    font-size: 1.3rem;
+    font-stretch: ultra-expanded;
+    color:#ecf0f1;
+}
+
+/* PROGRAMAÇÃO */
+h2 {
+
+    font-size: 2.4rem;
+    font-family: Impact, sans-serif;
+    font-stretch: ultra-expanded;
+    color:#ecf0f1;
+}
+.card{
+
+    color:#34495e;
+} 
+.cardform{
+
+    object-position: 50% 50%;
+    right: 50%;
+    left:50%;
+    color:#34495e;
+}
+
+/* FORMULÁRIO */
+.tm-form-section {
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+}
+
+/* FALE CONOSCO */
+.tm-btn {
+
+    border: 1px solid transparent;
+    border-radius: 0;
+    background-color: transparent;
+    color: #000000;
+    padding: 10px 30px;
+  }
+  .tm-btn:hover {
+
+    color: #5e5e5e;
+    background-color: #000000;
+  }
