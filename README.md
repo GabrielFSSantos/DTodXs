@@ -1,6 +1,6 @@
 # Open Source DTodXs
 ![Developer](https://img.shields.io/badge/GabrielFSSantos-DTodXs-blue)
-[![licence mit](https://img.shields.io/github/license/GabrielFSSantos/DTodXs)](https://github.com/GabrielFSSantos/DTodXs/blob/master/LICENSE.md)
+[![licence mit](https://img.shields.io/github/license/GabrielFSSantos/DTodXs)](https://github.com/GabrielFSSantos/DTodXs/blob/master/LICENSE)
 
 > :gem: DTodXs é uma landing page de uma boate e casa de eventos fictícia. <br>
 > :books: O projeto foi desenvolvido com o intuito de exercitar meus conhecimentos de programação e para fins didáticos.
@@ -20,9 +20,7 @@
 * [StackEdit] - Excelente editor de Markdown online.
 
 ## License
-[MIT License](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md) ©
-
-
+[MIT License](https://github.com/GabrielFSSantos/DTodXs/blob/master/LICENSE)
 
 [HTML]: <https://devdocs.io/html/>
 [CSS]: <https://devdocs.io/css/>
